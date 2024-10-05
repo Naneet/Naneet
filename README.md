@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naneet
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Devlopment
-- 💞️ I’m looking to collaborate on something related to python or web dev
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on something related to Machine Learning and Deep Learning
 - 📫 How to reach me https://www.linkedin.com/in/naneet-tyagi-0a60252b0/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
